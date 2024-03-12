@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@ardianreiss/simple-evm-faucet": "0.1.0",
     "@chakra-ui/menu": "^2.1.12",
     "@chakra-ui/react": "^2.5.5",
     "@emotion/react": "11",
