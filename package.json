@@ -1,6 +1,6 @@
 {
   "name": "custom-minting-page",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "private": false,
   "scripts": {
     "dev": "next dev",
@@ -11,7 +11,7 @@
   "dependencies": {
     "@chakra-ui/menu": "^2.1.12",
     "@chakra-ui/react": "^2.5.5",
-    "@ardianreiss/simple-evm-faucet": "0.1.0",
+    "@ardianreiss/simple-evm-faucet": "1.0.0",
     "@emotion/react": "11",
     "@emotion/styled": "11",
     "@makeswift/runtime": "^0.10.5",
